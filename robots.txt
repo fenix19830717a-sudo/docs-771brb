@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-wi1xkc.surgaplay47rar.cfd/sitemap.xml
